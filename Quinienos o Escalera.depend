@@ -1,0 +1,135 @@
+# depslib dependency file v1.0
+1688611678 source:c:\users\enzo\desktop\utn\primer a—o - 1c\laboratorio 1\c++\quinienos o escalera\main.cpp
+	<iostream>
+	"rlutil.h"
+	"funcion_main.h"
+	<ctime>
+	<cstdlib>
+	<algorithm>
+	<cstring>
+
+1571569938 c:\users\enzo\desktop\utn\primer a—o - 1c\laboratorio 1\c++\quinienos o escalera\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1688611428 c:\users\enzo\desktop\utn\primer a—o - 1c\laboratorio 1\c++\quinienos o escalera\funcion_main.h
+
+1688675258 source:c:\users\enzo\desktop\utn\primer a—o - 1c\laboratorio 1\c++\quinienos o escalera\funciones_main.cpp
+	<iostream>
+	"rlutil.h"
+	"funcion_main.h"
+	<ctime>
+	<cstdlib>
+	<algorithm>
+	<cstring>
+
+1688590943 source:c:\users\enzo\desktop\utn\primer a—o - 1c\laboratorio 1\c++\quinienos o escalera\combinaciones_dados.cpp
+	<iostream>
+	"rlutil.h"
+	"funcion_main.h"
+	<ctime>
+	<cstdlib>
+	<algorithm>
+
+1688411693 source:c:\users\enzo\desktop\utn\primer a—o - 1c\laboratorio 1\c++\quinienos o escalera\dibujar_dados.cpp
+	<iostream>
+	<string>
+	"rlutil.h"
+	"funcion_main.h"
+	<ctime>
+	<cstdlib>
+	<algorithm>
+
+1688613212 source:c:\users\enzo\desktop\utn\primer a—o - 1c\laboratorio 1\c++\quinienos o escalera\modo1jugador.cpp
+	<iostream>
+	"rlutil.h"
+	"funcion_main.h"
+	<ctime>
+	<cstdlib>
+	<algorithm>
+
+1688614178 source:c:\users\enzo\desktop\utn\primer a—o - 1c\laboratorio 1\c++\quinienos o escalera\modo2jugadores.cpp
+	<iostream>
+	"rlutil.h"
+	"funcion_main.h"
+	<ctime>
+	<cstdlib>
+	<algorithm>
+
+1688994241 source:c:\users\enzo\desktop\utn\primer a—o - 1c\laboratorio 1\c++\lucas_de_marchi\quinienos o escalera\combinaciones_dados.cpp
+	<iostream>
+	"rlutil.h"
+	"funcion_main.h"
+	<ctime>
+	<cstdlib>
+	<algorithm>
+
+1571569938 c:\users\enzo\desktop\utn\primer a—o - 1c\laboratorio 1\c++\lucas_de_marchi\quinienos o escalera\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1688991387 c:\users\enzo\desktop\utn\primer a—o - 1c\laboratorio 1\c++\lucas_de_marchi\quinienos o escalera\funcion_main.h
+
+1688411693 source:c:\users\enzo\desktop\utn\primer a—o - 1c\laboratorio 1\c++\lucas_de_marchi\quinienos o escalera\dibujar_dados.cpp
+	<iostream>
+	<string>
+	"rlutil.h"
+	"funcion_main.h"
+	<ctime>
+	<cstdlib>
+	<algorithm>
+
+1688874228 source:c:\users\enzo\desktop\utn\primer a—o - 1c\laboratorio 1\c++\lucas_de_marchi\quinienos o escalera\funciones_main.cpp
+	<iostream>
+	"rlutil.h"
+	"funcion_main.h"
+	<ctime>
+	<cstdlib>
+	<algorithm>
+	<cstring>
+
+1688611678 source:c:\users\enzo\desktop\utn\primer a—o - 1c\laboratorio 1\c++\lucas_de_marchi\quinienos o escalera\main.cpp
+	<iostream>
+	"rlutil.h"
+	"funcion_main.h"
+	<ctime>
+	<cstdlib>
+	<algorithm>
+	<cstring>
+
+1688613212 source:c:\users\enzo\desktop\utn\primer a—o - 1c\laboratorio 1\c++\lucas_de_marchi\quinienos o escalera\modo1jugador.cpp
+	<iostream>
+	"rlutil.h"
+	"funcion_main.h"
+	<ctime>
+	<cstdlib>
+	<algorithm>
+
+1688836443 source:c:\users\enzo\desktop\utn\primer a—o - 1c\laboratorio 1\c++\lucas_de_marchi\quinienos o escalera\modo2jugadores.cpp
+	<iostream>
+	"rlutil.h"
+	"funcion_main.h"
+	<ctime>
+	<cstdlib>
+	<algorithm>
+
